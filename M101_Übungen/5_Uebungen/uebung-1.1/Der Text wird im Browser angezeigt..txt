@@ -1,0 +1,3 @@
+Der Text wird im Browser angezeigt. Dabei hat es jedoch keine Struktur.
+
+Es steht nun nicht mehr index.html sondern Bistro zur schwarzen Gans
